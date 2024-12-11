@@ -1,2 +1,2 @@
 <h1> ACH4Q --> is here </h1>
-/home/machaq/Pictures/Screenshots/Screenshot from 2024-12-11 23-01-23.png
+<img src="/home/machaq/Pictures/Screenshots/Screenshot from 2024-12-11 23-01-23.png" alt="">
