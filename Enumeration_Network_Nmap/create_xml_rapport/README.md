@@ -1,4 +1,25 @@
-<h1> ACH4Q --> is here </h1>
+# Nmap TCP Connection Report
+
+This repository contains the results of an Nmap TCP connection scan, which I successfully conducted and documented in **XML format**.
+
+## About the Report
+The report showcases a comprehensive TCP connection scan performed using **Nmap**, a powerful network scanning tool. The output is saved as an XML file, enabling easy analysis and integration with other tools.
+
+## Files in This Repository
+1. **`rapport_xml`**: The XML file containing the Nmap scan results.
+2. **Screenshot**: A screenshot of the terminal showing the Nmap scan in action.
+
+## Tools Used
+- **Nmap**: For performing the TCP connection scan.
+- **XML**: To store and present the scan data in a structured format.
+
+## How to View the Report
+To view the XML report:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/nmap-tcp-report.git
+   cd nmap-tcp-report
+
 <!DOCTYPE html>
 <html>
 	<head>
