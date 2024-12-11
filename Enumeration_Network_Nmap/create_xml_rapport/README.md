@@ -15,7 +15,7 @@ The report showcases a comprehensive TCP connection scan performed using **Nmap*
 
 ## How to View the Report
 To view the XML report:
-go to file rapport_xml.xml
+1 just go to file rapport_xml.xml
 <!DOCTYPE html>
 <html>
 	<head>
