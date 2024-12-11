@@ -9,7 +9,7 @@ Nmap (Network Mapper) is a versatile tool for network exploration and security a
 - **Host enumeration**
 - **IP address scanning**
 - **Advanced flag usage**
-![image alt]()
+![image alt](https://github.com/ACH4Q/Penetration-Testing-Path/blob/main/Enumeration_Network_Nmap/Screenshot%20from%202024-12-11%2023-09-48.png?raw=true)
 ## What I Learned
 
 ### Key Nmap Flags
