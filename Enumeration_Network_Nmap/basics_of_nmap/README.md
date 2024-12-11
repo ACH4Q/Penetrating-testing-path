@@ -1,3 +1,5 @@
+![image alt](https://github.com/ACH4Q/Penetration-Testing-Path/blob/main/Enumeration_Network_Nmap/Screenshot%20from%202024-12-11%2023-08-47.png?raw=true)
+
 # My Journey in Nmap Host and IP Address Enumeration
 
 This repository documents my learning journey in the **Nmap Enumeration Module**, where I explored advanced techniques for scanning hosts and IP addresses. Through hands-on practice, I discovered various Nmap flags and their powerful capabilities in network scanning.
@@ -19,6 +21,8 @@ Nmap (Network Mapper) is a versatile tool for network exploration and security a
 - **`-O`**: Enable OS detection to identify the operating system of the target host.
 - **`-Pn`**: Skip the ping check and assume the host is up for scanning.
 - **`-PE`**: Use ICMP Echo Requests to ping the target.
+
+  ![image alt]()
 
 ### Practical Applications
 1. **Enumerating live hosts on a network:**
