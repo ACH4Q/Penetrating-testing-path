@@ -15,11 +15,7 @@ The report showcases a comprehensive TCP connection scan performed using **Nmap*
 
 ## How to View the Report
 To view the XML report:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/nmap-tcp-report.git
-   cd nmap-tcp-report
-
+go to file rapport_xml.xml
 <!DOCTYPE html>
 <html>
 	<head>
