@@ -9,7 +9,7 @@ Nmap (Network Mapper) is a versatile tool for network exploration and security a
 - **Host enumeration**
 - **IP address scanning**
 - **Advanced flag usage**
-
+![image alt]()
 ## What I Learned
 
 ### Key Nmap Flags
@@ -22,7 +22,7 @@ Nmap (Network Mapper) is a versatile tool for network exploration and security a
 - **`-Pn`**: Skip the ping check and assume the host is up for scanning.
 - **`-PE`**: Use ICMP Echo Requests to ping the target.
 
-  ![image alt]()
+  ![image alt](https://github.com/ACH4Q/Penetration-Testing-Path/blob/main/Enumeration_Network_Nmap/Screenshot%20from%202024-12-11%2023-09-56.png?raw=true)
 
 ### Practical Applications
 1. **Enumerating live hosts on a network:**
